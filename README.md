@@ -30,4 +30,7 @@ Exemplos executados na palestra sobre Node.js e Job/Task Queue
         pm2 monit 1
         
       ```
+  ## Monitorando Redis
+   
+      redis-cli monit  
   
