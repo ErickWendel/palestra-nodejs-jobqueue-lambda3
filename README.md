@@ -14,9 +14,6 @@ Exemplos executados na palestra sobre Node.js e Job/Task Queue
   - MongoDB
   
 ## Rodando
-  - via docker
-    ```docker-compose up --build```
-   - local
       - rodar em cada uma das pastas (sender/ e subcriber/)
       ``` 
        npm i  

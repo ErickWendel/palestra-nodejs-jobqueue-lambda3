@@ -1,6 +1,6 @@
 const mongojs = require('mongojs')
 const every = require('every-moment')
-const db = mongojs('meetup-db')
+const db = mongojs('mongodb://localhost/meetup-db')
 const productsDb = db.collection('productsProcess')
 const shortid = require('shortid');
 const winston = require('winston');
