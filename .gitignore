@@ -1,0 +1,5 @@
+subscriber/node_modules
+sender/node_modules
+subscriber/somefile.log
+sender/somefile.log
+dump.rdb

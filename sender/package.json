@@ -1,0 +1,17 @@
+{
+  "name": "sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erickwendel",
+  "license": "ISC",
+  "dependencies": {
+    "every-moment": "0.0.1",
+    "mongojs": "^2.4.0",
+    "shortid": "^2.2.8",
+    "winston": "^2.3.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "subscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bee-queue": "^0.3.0", 
+    "every-moment": "0.0.1",
+    "mongojs": "^2.4.0", 
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "erickwendel",
+  "license": "ISC"
+}
